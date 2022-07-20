@@ -1,0 +1,103 @@
+body {
+  font-family: 'Outfit', sans-serif;
+  padding: 3% 18% ;
+}
+
+img {
+  border-radius: 100%;
+  height: 40px;
+  width: 40px;
+  margin: 20px;
+  float: left;
+}
+
+h1 {
+  margin-right: 70%;
+  color: hsl(300, 43%, 22%);
+  font-weight: bold;
+}
+
+/* heading */
+.sub-heading {
+  margin-right: 55%;
+  color: hsl(303, 10%, 53%);
+}
+
+.side-heading {
+  padding: 20px 5px;
+}
+
+/* marking */
+
+.marking1, .marking2 ,.marking3 {
+  background: hsl(300, 24%, 96%);
+  width: 350px;
+  height: 40px;
+  padding: 5px 30px;
+  ;
+}
+
+.marking1 {
+  position: absolute;
+  top: 120px;
+  left: 800px;
+}
+
+.marking2 {
+  position: absolute;
+  top: 180px;
+  left: 900px;
+}
+
+.marking3 {
+  position: absolute;
+  top: 240px;
+  left: 1000px;
+}
+/* feature */
+
+.feature1 ,.feature2 ,.feature3 {
+  width: 300px;
+  height: 220px;
+  color: white;
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 20px;
+  padding: 15px;
+}
+
+.feature1 {
+  position: absolute;
+  top: 350px;
+  left: 280px;
+}
+
+.feature2 {
+  position: absolute;
+  top: 380px;
+  left: 615px;
+}
+
+.feature3 {
+  position: absolute;
+  top: 400px;
+  left: 950px;
+}
+
+.description {
+  font-size: 14px;
+}
+
+.buyer {
+  color: hsl(333, 80%, 67%);
+}
+
+.star {
+  font-size: 13px;
+  color: hsl(300, 43%, 22%);
+  font-weight: bold;
+  margin-left: 30px;
+}
+.footer{
+  padding-top: 370px;
+  color: purple;
+}
